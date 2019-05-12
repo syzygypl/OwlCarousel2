@@ -34,10 +34,7 @@
     "pretty": "^0.1.2"
    
   },
-  "engines": {
-    "node": "~0.10.28"
-  },
-  "keywords": [
+ "keywords": [
     "responsive",
     "carousel",
     "owlcarousel",
